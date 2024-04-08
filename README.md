@@ -1,7 +1,7 @@
 # ClosetOrganizer
 
 ## Purpose
-Closet Organizer is a Java-based application designed to assist users in efficiently managing their wardrobe. It aims to enhance the utilization of clothing and simplify the process of selecting daily outfits.
+Closet Organizer is a Java-based application designed to assist users in efficiently managing their closet. It aims to enhance the utilization of clothing and simplify the process of selecting daily outfits.
 
 ## Objectives
 - Implement a user-friendly GUI to make the process of uploading and managing clothes straightforward.
